@@ -1,5 +1,8 @@
 == Ranger v0.2.6
 
+THIS VERSION IS OUT OF DATE. CHECK THIS WEBSITE FOR UPDATES:
+http://repo.or.cz/w/ranger.git
+
 Ranger is a filemanager that integrates well into the linux shell and gives
 you a quick way of doing operations that would otherwise require a lot of
 typing, without starting up a bloated environment.
